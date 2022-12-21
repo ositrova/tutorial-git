@@ -1,8 +1,11 @@
 Список корисних команд для роботи з git
 
 git clone - копіює репозиторій(папку з файлами) на компютер
+
 git branch "branchName" - створює гілку з назвою "branchName"
+
 git checkout "branchName" - переходить на гілку з назвою "branchName"
+
 git checkout -b "branchName" - створюємо гілку з назвою "branchName" і переходимо на неї
 git add . - зберігаємо зміни в файлах
 git commit -m "commit message" - підписуємо збереженні зміни в файлах
